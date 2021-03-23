@@ -1,0 +1,25 @@
+{
+  "name": "Poplink Token",
+  "logoURI": "https://i.postimg.cc/L53zZZbW/logo.png",
+  "keywords": [
+      "defi",
+      "DEFI",
+      "poplink"
+    ],
+    "timestamp": "2021-03-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0xa916d194cdc1fad83f5e0e4a5720a10922deb088",
+      "name": "Poplink Token",
+      "symbol": "POPO",
+      "decimals": 18,
+      "logoURI": "https://i.postimg.cc/L53zZZbW/logo.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
